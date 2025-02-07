@@ -26,3 +26,6 @@ Ein einfacher **Linktree-Klon**, der es Nutzern ermöglicht, mehrere Links auf e
 ```bash
 git clone https://github.com/DanMaDev327/LinktreeClone.git
 ```
+##Quellen für Bilder und SVG
+- https://www.stockvault.net/photo/109080/aaron-ford
+- https://www.svgrepo.com
