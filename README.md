@@ -10,7 +10,7 @@ Ein einfacher **Linktree-Klon**, der es Nutzern ermöglicht, mehrere Links auf e
 
 ## Vorschau
 
-![Linktree Klon Vorschau](./images/screenshot.png)
+![Linktree Klon Vorschau](./preview/screenshot.png)
 
 ## Technologien
 
@@ -18,7 +18,6 @@ Ein einfacher **Linktree-Klon**, der es Nutzern ermöglicht, mehrere Links auf e
 - **CSS**: Gestaltung und Layout.
   - Flexbox für die Zentrierung und Anordnung der Links.
   - Anpassung des Designs für verschiedene Bildschirmgrößen.
-- **JavaScript**: Optional für Interaktivität (falls du zusätzliche Funktionen wie Animationen hinzufügen möchtest).
 
 ## Installation
 
@@ -26,3 +25,4 @@ Ein einfacher **Linktree-Klon**, der es Nutzern ermöglicht, mehrere Links auf e
 
 ```bash
 git clone https://github.com/DanMaDev327/LinktreeClone.git
+```
