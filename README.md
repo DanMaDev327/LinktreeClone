@@ -10,7 +10,7 @@ Ein einfacher **Linktree-Klon**, der es Nutzern ermöglicht, mehrere Links auf e
 
 ## Vorschau
 
-![Linktree Klon Vorschau](./preview/screenshot.png)
+![Linktree Klon Vorschau](preview/screenshot.png)
 
 ## Technologien
 
