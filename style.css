@@ -59,6 +59,19 @@ header h1 {
 header p {
   margin-top: 20px;
   margin-bottom: 20px;
+  text-align: justify;
+  text-align-last: center;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section svg {
+  margin-bottom: 20px;
+  margin-right: 25px;
 }
 
 nav {
@@ -85,6 +98,15 @@ nav ul li {
   border: 2px solid #ffffff;
   border-radius: 1000px;
   margin-bottom: 25px;
+}
+
+nav ul li:hover {
+  cursor: pointer;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: inherit;
 }
 
 footer {
